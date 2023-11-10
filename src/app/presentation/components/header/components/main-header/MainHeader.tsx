@@ -1,4 +1,4 @@
-import logo from '../../../../../../assets/img/logo/taran-logo.png';
+import logo from "../../../../../../assets/images/taran-logo.png";
 import "./MainHeader.scss";
 
 export function MainHeader() {
